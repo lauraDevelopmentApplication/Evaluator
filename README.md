@@ -1,0 +1,1 @@
+This microservice has as a object to evaluate a number to be a valid digit using a state machine, eventually it is going to evaluate a mathematical expression the start point is /evaluate
